@@ -1,0 +1,14 @@
+Package: mypackage
+Title: It Helps Animals To Make Nice Noises
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Chloe",
+           family = "Brook",
+           role = c("aut", "cre"),
+           email = "chloe.arielle25@gmail.com")
+Description: This package makes the ducks go quack.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
